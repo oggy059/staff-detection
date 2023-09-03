@@ -38,12 +38,10 @@ To accomplish these steps, different techniques are used:
 • YoloV5: 1 and 3
 • DeepSORT: 2
 
-For the results, shown in the screenshots below, the staff (person wearing the tag) is detected and
-assigned ID number 48 on the left and ID number 116 on the right.
+For the results, shown in the screenshots below, the staff (person wearing the tag) is detected and assigned ID number 48 on the left and ID number 116 on the right.
 ![image](https://github.com/oggy059/staff-detection/assets/746455/ccbeb9a3-4b42-4bb4-ae7a-cc549f65d6e1)![image](https://github.com/oggy059/staff-detection/assets/746455/4af88ec1-4238-49b8-bf1e-7b6cf8aa12b0)
 
-However, the tracker is not perfect as th e staf f w as assigned different IDs when he is walking and
-another different IDs when wearing the black jacket.
+However, the tracker is not perfect as the staff was assigned different IDs when he is walking and another different IDs when wearing the black jacket.
 
 - The ID when not wearing the jacket: 48,64,65,71, 83.
 - The ID when wearing the jacket 102,113,116,121,131,138.
