@@ -16,7 +16,7 @@ Tasks:
 2. [Bonus] Locate the staff xy coordinates when present in the clip.
 
 Instructions:
-- Be creative! Make assump􀆟ons when needed
+- Be creative! Make assumptions when needed
 - Free to use any tool, programming language, model to complete the task
 - Use illustration or visualization aids when possible
 - Submit a 1-2 page documentation on your solution, highlight the key parts
